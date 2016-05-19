@@ -1,47 +1,47 @@
 <?xml version="1.0"?>
 <items>
 	<item>
-    <name>Current Hour</name>
-    <id>this+hour</id>
-  </item>
-		<item>
-	    <name>Last Hour</name>
-	    <id>last+hour</id>
-	  </item>
+		<name>Current Hour</name>
+		<id>this+hour</id>
+	</item>
 	<item>
-    <name>Today</name>
-    <id>today</id>
-  </item>
+		<name>Last Hour</name>
+		<id>last+hour</id>
+	</item>
 	<item>
-    <name>Yesterday</name>
-    <id>yesterday</id>
-  </item>
+		<name>Today</name>
+		<id>today</id>
+	</item>
 	<item>
-    <name>Current Week</name>
-    <id>this+week</id>
-  </item>
+		<name>Yesterday</name>
+		<id>yesterday</id>
+	</item>
 	<item>
-    <name>Last Week</name>
-    <id>last+week</id>
-  </item>
+		<name>Current Week</name>
+		<id>this+week</id>
+	</item>
 	<item>
-    <name>Current Month</name>
-    <id>this+month</id>
-  </item>
+		<name>Last Week</name>
+		<id>last+week</id>
+	</item>
 	<item>
-    <name>Last Month</name>
-    <id>last+month</id>
-  </item>
+		<name>Current Month</name>
+		<id>this+month</id>
+	</item>
 	<item>
-    <name>Current Year</name>
-    <id>this+year</id>
-  </item>
+		<name>Last Month</name>
+		<id>last+month</id>
+	</item>
 	<item>
-    <name>Last Year</name>
-    <id>last+year</id>
-  </item>
+		<name>Current Year</name>
+		<id>this+year</id>
+	</item>
 	<item>
-    <name>Last 30 Days</name>
-    <id>last+30+days</id>
-  </item>
+		<name>Last Year</name>
+		<id>last+year</id>
+	</item>
+	<item>
+		<name>Last 30 Days</name>
+		<id>last+30+days</id>
+	</item>
 </items>

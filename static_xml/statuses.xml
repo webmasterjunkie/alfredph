@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <items>
 	<item>
-    <name>Pending Conversions</name>
-    <id>pending</id>
-  </item>
+		<name>Pending Conversions</name>
+		<id>pending</id>
+	</item>
 	<item>
-    <name>Approved Conversions</name>
-    <id>approved</id>
-  </item>
+		<name>Approved Conversions</name>
+		<id>approved</id>
+	</item>
 	<item>
-    <name>Rejected Conversions</name>
-    <id>rejected</id>
-  </item>
+		<name>Rejected Conversions</name>
+		<id>rejected</id>
+	</item>
 	<item>
-    <name>Mixed Conversions</name>
-    <id>mixed</id>
-  </item>
+		<name>Mixed Conversions</name>
+		<id>mixed</id>
+	</item>
 </items>
