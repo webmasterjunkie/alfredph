@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<items>
+	<item>
+    <name>Click Report</name>
+    <id>click</id>
+		<valid>YES</valid>
+  </item>
+	<item>
+    <name>Standard Conversion Report</name>
+    <id>conversion</id>
+		<valid>YES</valid>
+  </item>
+	<item>
+    <name>Conversion Item Report</name>
+    <id>conversion_item</id>
+		<valid>YES</valid>
+  </item>
+</items>
