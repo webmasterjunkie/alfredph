@@ -17,6 +17,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -25,6 +27,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>15A1C744-E3BD-4EE1-BBA3-23D2931E4F54</key>
@@ -36,6 +40,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>1B68B5F9-F2CD-4616-84C9-D8F6C448C17C</key>
@@ -47,6 +53,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>1E8E97F1-0401-4993-B2F5-4238B8242C0C</key>
@@ -58,6 +66,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -66,6 +76,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Change the reporting identifier and pull the report.</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>20ED8A58-0275-4720-B2FC-628A8CCBED95</key>
@@ -77,6 +89,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>26199BA5-8521-49D5-A9CB-9591119574D5</key>
@@ -88,6 +102,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2BF92AE0-1626-4654-B8A8-5F536732C00E</key>
@@ -99,6 +115,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2D2CBD0F-0AEB-4098-B8FB-63D909FF01D6</key>
@@ -110,6 +128,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -118,6 +138,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>3F4C3D9C-CDBB-4BFE-AFCA-E8FF002B0DCD</key>
@@ -129,6 +151,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>44CB9A63-4255-4BF7-A7CD-F2AE0CE2CA64</key>
@@ -140,6 +164,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>454980EE-97F1-4112-8DAE-C4377088BC48</key>
@@ -151,6 +177,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>47E2E31B-B497-40DE-8D31-37F06A69B902</key>
@@ -162,6 +190,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>4C713002-1981-40B5-BDFA-708DEF96333A</key>
@@ -173,6 +203,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -181,6 +213,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>5431C9BB-74F3-4712-969A-4FE6C7E69988</key>
@@ -192,6 +226,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Change the reporting date and pull the report.</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -200,6 +236,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>552FE855-A963-432F-8802-FF6BE3A3A7BC</key>
@@ -211,6 +249,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>56D31CD4-3C4A-46C2-93B5-8BE56AE71074</key>
@@ -222,6 +262,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>596FEB52-91DD-4BDF-9191-416725ACEEE6</key>
@@ -233,6 +275,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -241,6 +285,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>59BF2E7A-8F82-487B-A2FD-C8835594CF2C</key>
@@ -252,6 +298,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>5C38859F-BA3E-4807-88A3-91D70C49D963</key>
@@ -263,6 +311,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>63724BA0-8E5A-40A1-A68A-4394DD758BB1</key>
@@ -274,6 +324,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>64B7E4B4-223A-410E-9B1D-F36F64C48DD1</key>
@@ -285,6 +337,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>65CF13D6-5F19-4468-ADA8-0A757FD42F76</key>
@@ -296,6 +350,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>682E74D1-818A-4B10-B0B6-437BDCD4285C</key>
@@ -307,6 +363,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>80103690-872C-4C56-B913-6D63954150B6</key>
@@ -318,6 +376,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>82A34B18-427A-40CD-9834-0EE2DD26132E</key>
@@ -329,6 +389,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>87AD03EB-C993-4657-A6E0-ECE39B0E1C33</key>
@@ -340,6 +402,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Create the reporting group and pull the report.</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -348,6 +412,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>899258C8-4530-4683-A4B8-990D67404155</key>
@@ -359,6 +425,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>8CF405EE-55D4-4052-B09D-51958B7A791B</key>
@@ -370,6 +438,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>90D697C2-D1C2-40B3-B70F-A5DB083F9AB8</key>
@@ -381,6 +451,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>90DA66B5-3990-4BF4-8AFE-EA0D8275740C</key>
@@ -392,6 +464,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>9BB9FAD4-1C95-49E9-AAD6-30A197110B1A</key>
@@ -403,6 +477,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Change the reporting metric and pull the report.</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -411,6 +487,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>9ECA2B79-CA68-44FA-ADC5-D8E363CDC0B8</key>
@@ -422,6 +500,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>A658A1D7-EA3C-4C93-B5BF-BDB14AD31345</key>
@@ -433,6 +513,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -441,6 +523,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>B5AF3776-638A-45B3-B9BB-8E433F8DB480</key>
@@ -452,6 +536,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>BD1B6687-7F59-482E-ACFE-85FE63E7427C</key>
@@ -463,6 +549,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C0392BA5-2A15-4C14-AF93-51B55D2D2091</key>
@@ -474,6 +562,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>C81078D3-A364-49AA-9A49-EBC11080A333</key>
@@ -485,6 +575,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D30C5088-7696-424F-AFDE-A3AED458E80E</key>
@@ -496,6 +588,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D8215940-F1D8-4F42-BB7C-724E7EF7665D</key>
@@ -507,6 +601,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D953316F-EB19-44AE-B327-C8555A878176</key>
@@ -518,6 +614,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E1CF7C57-F3AB-444C-A5C3-69ACA161E40A</key>
@@ -529,6 +627,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E1D79E66-6C58-4D84-BE57-3876BAB19ED7</key>
@@ -540,6 +640,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E5F3E5FA-B0ED-4E7D-B122-351A61FBADD3</key>
@@ -551,6 +653,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E7B4C554-7182-4DE5-8CDE-EE32C6F00CF4</key>
@@ -562,6 +666,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E7FC7949-B6E1-430B-AB3F-636D356BBF0E</key>
@@ -573,6 +679,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>EC484654-9DA3-4CD3-ADE7-F095AA471F10</key>
@@ -584,6 +692,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -592,6 +702,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>EE894EC7-60E1-4536-8010-352D81907894</key>
@@ -603,6 +715,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>F0A0B9F7-4AAA-4B49-A088-386953DA010F</key>
@@ -614,6 +728,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>FE3C32EB-D3BD-4773-B396-FB54AEC32BF3</key>
@@ -625,6 +741,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -657,7 +775,7 @@
 			<key>uid</key>
 			<string>3F4C3D9C-CDBB-4BFE-AFCA-E8FF002B0DCD</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -667,16 +785,20 @@
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:setupNetworkKey" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:setupNetworkKey" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>6DA697DF-1123-437A-BEAF-080E793DE9C4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -695,7 +817,7 @@
 			<key>uid</key>
 			<string>90DA66B5-3990-4BF4-8AFE-EA0D8275740C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -705,7 +827,11 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo '{"network":"{query}",' &gt; credentials</string>
+				<string>echo '{"network":"{query}",' &gt; variables/credentials</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -714,7 +840,7 @@
 			<key>uid</key>
 			<string>454980EE-97F1-4112-8DAE-C4377088BC48</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -724,16 +850,20 @@
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:setupUserKey" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:setupUserKey" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>779F5AD9-E168-4569-83B1-4CE9B9632B07</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -746,7 +876,7 @@
 			<key>uid</key>
 			<string>D8215940-F1D8-4F42-BB7C-724E7EF7665D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -759,7 +889,7 @@
 			<key>uid</key>
 			<string>15A1C744-E3BD-4EE1-BBA3-23D2931E4F54</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -769,7 +899,11 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo '"user":"{query}",' &gt;&gt; credentials</string>
+				<string>echo '"user":"{query}",' &gt;&gt; variables/credentials</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -778,7 +912,7 @@
 			<key>uid</key>
 			<string>9ECA2B79-CA68-44FA-ADC5-D8E363CDC0B8</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -797,7 +931,7 @@
 			<key>uid</key>
 			<string>899258C8-4530-4683-A4B8-990D67404155</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -807,16 +941,20 @@
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:setupDomain" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:setupDomain" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>8AD83482-0B04-4A0A-B9CD-BE0FBD952B4A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -826,16 +964,20 @@
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:validateCredentials" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:validateCredentials" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>90EA7EF5-7181-4901-8AF7-D4C2A2EC4BCB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -848,7 +990,7 @@
 			<key>uid</key>
 			<string>F0A0B9F7-4AAA-4B49-A088-386953DA010F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -867,7 +1009,7 @@
 			<key>uid</key>
 			<string>E1D79E66-6C58-4D84-BE57-3876BAB19ED7</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -877,7 +1019,11 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo '"host":"{query}" }' &gt;&gt; credentials</string>
+				<string>echo '"host":"{query}" }' &gt;&gt; variables/credentials</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -886,7 +1032,7 @@
 			<key>uid</key>
 			<string>4C713002-1981-40B5-BDFA-708DEF96333A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -895,11 +1041,7 @@
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>Querying the API to see if your credentials are valid.</string>
@@ -911,7 +1053,7 @@
 			<key>uid</key>
 			<string>7BA7DC68-CD3B-4EB2-BA6B-05CFF9513C2A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -924,7 +1066,7 @@
 			<key>uid</key>
 			<string>E7B4C554-7182-4DE5-8CDE-EE32C6F00CF4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -933,11 +1075,7 @@
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>{query}</string>
@@ -949,7 +1087,7 @@
 			<key>uid</key>
 			<string>1E7DFFF2-209E-47A4-9C3D-D86586FACEA0</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -959,7 +1097,7 @@
 				<key>escaping</key>
 				<integer>100</integer>
 				<key>script</key>
-				<string>$obj_credentials = json_decode(file_get_contents('credentials'));
+				<string>$obj_credentials = json_decode(file_get_contents('variables/credentials'));
 $str_network = $obj_credentials-&gt;network;
 $str_user = $obj_credentials-&gt;user;
 $str_host = $obj_credentials-&gt;host;
@@ -974,6 +1112,10 @@ $m-&gt;set_api_auth(array('network' =&gt; $str_network, 'user' =&gt; $str_user))
 $obj_user = $m-&gt;user_get();
 
 echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "Credentials Saved!");</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -982,7 +1124,7 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 			<key>uid</key>
 			<string>59BF2E7A-8F82-487B-A2FD-C8835594CF2C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1003,7 +1145,7 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 			<key>uid</key>
 			<string>E5F3E5FA-B0ED-4E7D-B122-351A61FBADD3</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1013,16 +1155,20 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:setupReport" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:setupReport" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>414A97DF-5FC1-4B9F-BB76-0975FC03615E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1033,6 +1179,10 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/type</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1041,7 +1191,7 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 			<key>uid</key>
 			<string>26199BA5-8521-49D5-A9CB-9591119574D5</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1050,12 +1200,8 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
 				<false/>
-				<key>sticky</key>
-				<true/>
 				<key>text</key>
 				<string>Querying...</string>
 				<key>title</key>
@@ -1066,11 +1212,13 @@ echo (property_exists($obj_user, 'error') ? $obj_user-&gt;error-&gt;message : "C
 			<key>uid</key>
 			<string>BFA2906E-9FC8-41C9-97B1-91EE22D74BEB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -1101,6 +1249,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Are you going to report as an advertiser or publisher?</string>
 				<key>title</key>
@@ -1115,7 +1267,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>596FEB52-91DD-4BDF-9191-416725ACEEE6</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1128,7 +1280,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>682E74D1-818A-4B10-B0B6-437BDCD4285C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1141,7 +1293,7 @@ echo '&lt;/items&gt;';</string>
 				<string>$str_type = file_get_contents('variables/type');
 $str_type = trim($str_type);
 
-$credentials = json_decode(file_get_contents('credentials'));
+$credentials = json_decode(file_get_contents('variables/credentials'));
 $network = $credentials-&gt;network;
 $user = $credentials-&gt;user;
 $host = $credentials-&gt;host;
@@ -1173,6 +1325,10 @@ else
 }
 
 file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -1181,7 +1337,7 @@ file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
 			<key>uid</key>
 			<string>47E2E31B-B497-40DE-8D31-37F06A69B902</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1191,16 +1347,20 @@ file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:prepareReportID" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:prepareReportID" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>7236E4EB-15ED-4482-AA02-C98226CEC5F9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1213,7 +1373,7 @@ file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
 			<key>uid</key>
 			<string>2D2CBD0F-0AEB-4098-B8FB-63D909FF01D6</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1223,16 +1383,20 @@ file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:prepareReportMetrics" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:prepareReportMetrics" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>31771AED-1992-44A9-BE31-B85F5CF62FA1</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1243,6 +1407,10 @@ file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/identifier</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1251,11 +1419,13 @@ file_put_contents('identifiers.xml', '&lt;/items&gt;', FILE_APPEND);</string>
 			<key>uid</key>
 			<string>5C38859F-BA3E-4807-88A3-91D70C49D963</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -1290,6 +1460,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Provide the ID you want to report on. Could take a minute to load.</string>
 				<key>title</key>
@@ -1304,11 +1478,13 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>2BF92AE0-1626-4654-B8A8-5F536732C00E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -1339,6 +1515,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Provide the metric you want to report on, clicks or conversions.</string>
 				<key>title</key>
@@ -1353,7 +1533,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>552FE855-A963-432F-8802-FF6BE3A3A7BC</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1364,6 +1544,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/metric</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1372,7 +1556,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>64B7E4B4-223A-410E-9B1D-F36F64C48DD1</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1382,16 +1566,20 @@ echo '&lt;/items&gt;';</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:prepareReportStatus" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:prepareReportStatus" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>0E565DE3-725A-48DA-8B0F-D61F27B8B872</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1404,7 +1592,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>E1CF7C57-F3AB-444C-A5C3-69ACA161E40A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1415,6 +1603,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/status</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1423,11 +1615,13 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>63724BA0-8E5A-40A1-A68A-4394DD758BB1</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -1463,6 +1657,10 @@ if ($str_metric === "conversion" || $str_metric === "conversion_item")
 
 }
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Provide the statuses you want to report on for conversions.</string>
 				<key>title</key>
@@ -1477,7 +1675,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>B5AF3776-638A-45B3-B9BB-8E433F8DB480</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1487,16 +1685,20 @@ echo '&lt;/items&gt;';</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:prepareReportDate" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:prepareReportDate" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>7379FC5C-3E9C-4B3A-8C28-6BEBEE760958</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1509,7 +1711,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>56D31CD4-3C4A-46C2-93B5-8BE56AE71074</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1522,7 +1724,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>1B68B5F9-F2CD-4616-84C9-D8F6C448C17C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1532,20 +1734,26 @@ echo '&lt;/items&gt;';</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:downloadReport" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:downloadReport" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>D3BE7DF9-1E77-4BFB-9E6B-9A165A02AFDD</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -1579,6 +1787,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Provide the dates you want to report on using contextual means.</string>
 				<key>title</key>
@@ -1593,7 +1805,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>C0392BA5-2A15-4C14-AF93-51B55D2D2091</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1604,6 +1816,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/date</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1612,7 +1828,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>BD1B6687-7F59-482E-ACFE-85FE63E7427C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1623,15 +1839,19 @@ echo '&lt;/items&gt;';</string>
 				<integer>68</integer>
 				<key>script</key>
 				<string>do shell script "killall Growl &amp;&amp; open -a Growl"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>7B11AC18-B677-4409-BCF7-22A010D53FE9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1658,7 +1878,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>80103690-872C-4C56-B913-6D63954150B6</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1671,7 +1891,7 @@ echo '&lt;/items&gt;';</string>
 				<string>set haveDate to "{query}"
 
 if haveDate = "TRUE" then
-	tell application "Alfred 2" to run trigger "ph:downloadReport" in workflow "com.codable.us.phparser"
+	tell application "Alfred 3" to run trigger "ph:downloadReport" in workflow "com.codable.us.phparser"
 else
 
 	  tell application "System Events"
@@ -1701,17 +1921,21 @@ else
     display notification "You must re-configure the report parameters." with title "Invalid API Response!"
   end if
 
-	tell application "Alfred 2" to run trigger "ph:setupReport" in workflow "com.codable.us.phparser"
+	tell application "Alfred 3" to run trigger "ph:setupReport" in workflow "com.codable.us.phparser"
 end if</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>629E288E-EB79-42BC-9DD6-742D35B06C7F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1729,6 +1953,10 @@ else
 {
 	echo "FALSE";
 }</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -1737,7 +1965,7 @@ else
 			<key>uid</key>
 			<string>8CF405EE-55D4-4052-B09D-51958B7A791B</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1758,7 +1986,7 @@ else
 			<key>uid</key>
 			<string>C81078D3-A364-49AA-9A49-EBC11080A333</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1771,7 +1999,7 @@ else
 				<string>set hasFile to "{query}"
 
 if hasFile = "TRUE" then
-	tell application "Alfred 2" to run trigger "ph:showReport" in workflow "com.codable.us.phparser"
+	tell application "Alfred 3" to run trigger "ph:showReport" in workflow "com.codable.us.phparser"
 else
 
 	  tell application "System Events"
@@ -1801,17 +2029,21 @@ else
     display notification "You must re-configure the report parameters." with title "Invalid API Response!"
   end if
 
-	tell application "Alfred 2" to run trigger "ph:setupReport" in workflow "com.codable.us.phparser"
+	tell application "Alfred 3" to run trigger "ph:setupReport" in workflow "com.codable.us.phparser"
 end if</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>56DD96D4-F15E-4597-8173-E7D1AC8A1278</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1821,7 +2053,7 @@ end if</string>
 				<key>escaping</key>
 				<integer>100</integer>
 				<key>script</key>
-				<string>$credentials = json_decode(file_get_contents('credentials'));
+				<string>$credentials = json_decode(file_get_contents('variables/credentials'));
 $network = $credentials-&gt;network;
 $user = $credentials-&gt;user;
 $host = $credentials-&gt;host;
@@ -1879,6 +2111,10 @@ else
 {
 	echo "TRUE";
 }</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -1887,7 +2123,7 @@ else
 			<key>uid</key>
 			<string>D953316F-EB19-44AE-B327-C8555A878176</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1896,12 +2132,8 @@ else
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
 				<false/>
-				<key>sticky</key>
-				<true/>
 				<key>text</key>
 				<string>Please wat...</string>
 				<key>title</key>
@@ -1912,7 +2144,7 @@ else
 			<key>uid</key>
 			<string>521ED000-A32D-4417-87F4-6B2A5C6A77DB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1925,7 +2157,7 @@ else
 			<key>uid</key>
 			<string>A658A1D7-EA3C-4C93-B5BF-BDB14AD31345</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1934,11 +2166,7 @@ else
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>Please wat...</string>
@@ -1950,7 +2178,7 @@ else
 			<key>uid</key>
 			<string>9CD73059-470C-4E15-8898-FAE232684DB9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1963,7 +2191,7 @@ else
 			<key>uid</key>
 			<string>EC484654-9DA3-4CD3-ADE7-F095AA471F10</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1977,6 +2205,10 @@ else
 $str_file = trim($str_file);
 
 echo $str_file;</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>1</integer>
 			</dict>
@@ -1985,7 +2217,7 @@ echo $str_file;</string>
 			<key>uid</key>
 			<string>0BE31DDF-82DF-4E5A-9293-47A6632C3981</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2012,7 +2244,7 @@ echo $str_file;</string>
 			<key>uid</key>
 			<string>E7FC7949-B6E1-430B-AB3F-636D356BBF0E</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2025,15 +2257,19 @@ echo $str_file;</string>
 				<string>set theQuery to POSIX file "{query}"
 
 tell application "Finder" to open theQuery</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>AC48EAD3-94FB-4AA2-81F6-9C54D422CDE0</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2044,6 +2280,10 @@ tell application "Finder" to open theQuery</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/identifier</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2052,11 +2292,13 @@ tell application "Finder" to open theQuery</string>
 			<key>uid</key>
 			<string>20ED8A58-0275-4720-B2FC-628A8CCBED95</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -2093,6 +2335,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Change the reporting identifier.</string>
 				<key>title</key>
@@ -2107,7 +2353,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>1E8E97F1-0401-4993-B2F5-4238B8242C0C</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2118,6 +2364,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/identifier</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2126,7 +2376,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>D30C5088-7696-424F-AFDE-A3AED458E80E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2136,16 +2386,20 @@ echo '&lt;/items&gt;';</string>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to run trigger "ph:downloadReport" in workflow "com.codable.us.phparser"</string>
+				<string>tell application "Alfred 3" to run trigger "ph:downloadReport" in workflow "com.codable.us.phparser"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>6A7C8CAA-7845-4FA3-99F9-C2D73936A5C8</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2156,6 +2410,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/metric</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2164,11 +2422,13 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>65CF13D6-5F19-4468-ADA8-0A757FD42F76</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -2201,6 +2461,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Change the reporting metric.</string>
 				<key>title</key>
@@ -2215,7 +2479,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>9BB9FAD4-1C95-49E9-AAD6-30A197110B1A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2226,6 +2490,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/metric</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2234,7 +2502,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>FE3C32EB-D3BD-4773-B396-FB54AEC32BF3</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2243,12 +2511,10 @@ echo '&lt;/items&gt;';</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
 				<false/>
-				<key>sticky</key>
-				<false/>
+				<key>text</key>
+				<string></string>
 				<key>title</key>
 				<string>Change Successful</string>
 			</dict>
@@ -2257,7 +2523,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>D42735A6-5AC1-4E2E-8404-4AB4C40E40EB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2268,6 +2534,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/date</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2276,11 +2546,13 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>44CB9A63-4255-4BF7-A7CD-F2AE0CE2CA64</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -2316,6 +2588,10 @@ foreach($str_xml-&gt;item as $item)
 }
 
 echo '&lt;/items&gt;';</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Change the reporting date.</string>
 				<key>title</key>
@@ -2330,7 +2606,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>5431C9BB-74F3-4712-969A-4FE6C7E69988</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2341,6 +2617,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/date</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2349,7 +2629,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>82A34B18-427A-40CD-9834-0EE2DD26132E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2360,6 +2640,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/identifier</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2368,7 +2652,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>EE894EC7-60E1-4536-8010-352D81907894</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2389,7 +2673,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>87AD03EB-C993-4657-A6E0-ECE39B0E1C33</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2400,6 +2684,10 @@ echo '&lt;/items&gt;';</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>echo '{query}' &gt; variables/identifier</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2408,7 +2696,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>90D697C2-D1C2-40B3-B70F-A5DB083F9AB8</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2417,12 +2705,10 @@ echo '&lt;/items&gt;';</string>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<false/>
-				<key>output</key>
-				<integer>2</integer>
 				<key>removeextension</key>
 				<false/>
-				<key>sticky</key>
-				<false/>
+				<key>text</key>
+				<string></string>
 				<key>title</key>
 				<string>Campaign Group Created</string>
 			</dict>
@@ -2431,7 +2717,7 @@ echo '&lt;/items&gt;';</string>
 			<key>uid</key>
 			<string>CD5152BC-4937-4F3A-A120-A2583C632A27</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -2459,356 +2745,498 @@ Cris Griffith</string>
 	<dict>
 		<key>0BE31DDF-82DF-4E5A-9293-47A6632C3981</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>2260</real>
 		</dict>
 		<key>0E565DE3-725A-48DA-8B0F-D61F27B8B872</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1350</real>
 		</dict>
 		<key>15A1C744-E3BD-4EE1-BBA3-23D2931E4F54</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>270</real>
 		</dict>
 		<key>1B68B5F9-F2CD-4616-84C9-D8F6C448C17C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>1570</real>
 		</dict>
 		<key>1E7DFFF2-209E-47A4-9C3D-D86586FACEA0</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>590</real>
 		</dict>
 		<key>1E8E97F1-0401-4993-B2F5-4238B8242C0C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>2640</real>
 		</dict>
 		<key>20ED8A58-0275-4720-B2FC-628A8CCBED95</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>2590</real>
 		</dict>
 		<key>26199BA5-8521-49D5-A9CB-9591119574D5</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1030</real>
 		</dict>
 		<key>2BF92AE0-1626-4654-B8A8-5F536732C00E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1240</real>
 		</dict>
 		<key>2D2CBD0F-0AEB-4098-B8FB-63D909FF01D6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>1180</real>
 		</dict>
 		<key>31771AED-1992-44A9-BE31-B85F5CF62FA1</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1240</real>
 		</dict>
 		<key>3F4C3D9C-CDBB-4BFE-AFCA-E8FF002B0DCD</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>50</real>
 		</dict>
 		<key>414A97DF-5FC1-4B9F-BB76-0975FC03615E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>920</real>
 		</dict>
 		<key>44CB9A63-4255-4BF7-A7CD-F2AE0CE2CA64</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>3010</real>
 		</dict>
 		<key>454980EE-97F1-4112-8DAE-C4377088BC48</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>160</real>
 		</dict>
 		<key>47E2E31B-B497-40DE-8D31-37F06A69B902</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1130</real>
 		</dict>
 		<key>4C713002-1981-40B5-BDFA-708DEF96333A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>521ED000-A32D-4417-87F4-6B2A5C6A77DB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>2100</real>
 		</dict>
 		<key>5431C9BB-74F3-4712-969A-4FE6C7E69988</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>3060</real>
 		</dict>
 		<key>552FE855-A963-432F-8802-FF6BE3A3A7BC</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1350</real>
 		</dict>
 		<key>56D31CD4-3C4A-46C2-93B5-8BE56AE71074</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>1460</real>
 		</dict>
 		<key>56DD96D4-F15E-4597-8173-E7D1AC8A1278</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>2000</real>
 		</dict>
 		<key>596FEB52-91DD-4BDF-9191-416725ACEEE6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1080</real>
 		</dict>
 		<key>59BF2E7A-8F82-487B-A2FD-C8835594CF2C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>590</real>
 		</dict>
 		<key>5C38859F-BA3E-4807-88A3-91D70C49D963</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1240</real>
 		</dict>
 		<key>629E288E-EB79-42BC-9DD6-742D35B06C7F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1890</real>
 		</dict>
 		<key>63724BA0-8E5A-40A1-A68A-4394DD758BB1</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1460</real>
 		</dict>
 		<key>64B7E4B4-223A-410E-9B1D-F36F64C48DD1</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1350</real>
 		</dict>
 		<key>65CF13D6-5F19-4468-ADA8-0A757FD42F76</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>2800</real>
 		</dict>
 		<key>682E74D1-818A-4B10-B0B6-437BDCD4285C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>1080</real>
 		</dict>
 		<key>6A7C8CAA-7845-4FA3-99F9-C2D73936A5C8</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>2800</real>
 		</dict>
 		<key>6DA697DF-1123-437A-BEAF-080E793DE9C4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>50</real>
 		</dict>
 		<key>7236E4EB-15ED-4482-AA02-C98226CEC5F9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1130</real>
 		</dict>
 		<key>7379FC5C-3E9C-4B3A-8C28-6BEBEE760958</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1460</real>
 		</dict>
 		<key>779F5AD9-E168-4569-83B1-4CE9B9632B07</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>160</real>
 		</dict>
 		<key>7B11AC18-B677-4409-BCF7-22A010D53FE9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1720</real>
 		</dict>
 		<key>7BA7DC68-CD3B-4EB2-BA6B-05CFF9513C2A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>480</real>
 		</dict>
 		<key>80103690-872C-4C56-B913-6D63954150B6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>1830</real>
 		</dict>
 		<key>82A34B18-427A-40CD-9834-0EE2DD26132E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>3110</real>
 		</dict>
 		<key>87AD03EB-C993-4657-A6E0-ECE39B0E1C33</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>3270</real>
 		</dict>
 		<key>899258C8-4530-4683-A4B8-990D67404155</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>270</real>
 		</dict>
 		<key>8AD83482-0B04-4A0A-B9CD-BE0FBD952B4A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>270</real>
 		</dict>
 		<key>8CF405EE-55D4-4052-B09D-51958B7A791B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1890</real>
 		</dict>
 		<key>90D697C2-D1C2-40B3-B70F-A5DB083F9AB8</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>3320</real>
 		</dict>
 		<key>90DA66B5-3990-4BF4-8AFE-EA0D8275740C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>160</real>
 		</dict>
 		<key>90EA7EF5-7181-4901-8AF7-D4C2A2EC4BCB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>380</real>
 		</dict>
 		<key>9BB9FAD4-1C95-49E9-AAD6-30A197110B1A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>2850</real>
 		</dict>
 		<key>9CD73059-470C-4E15-8898-FAE232684DB9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>2210</real>
 		</dict>
 		<key>9ECA2B79-CA68-44FA-ADC5-D8E363CDC0B8</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>270</real>
 		</dict>
 		<key>A658A1D7-EA3C-4C93-B5BF-BDB14AD31345</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>2100</real>
 		</dict>
 		<key>AC48EAD3-94FB-4AA2-81F6-9C54D422CDE0</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>2310</real>
 		</dict>
 		<key>B5AF3776-638A-45B3-B9BB-8E433F8DB480</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1460</real>
 		</dict>
 		<key>BD1B6687-7F59-482E-ACFE-85FE63E7427C</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1570</real>
 		</dict>
 		<key>BFA2906E-9FC8-41C9-97B1-91EE22D74BEB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1030</real>
 		</dict>
 		<key>C0392BA5-2A15-4C14-AF93-51B55D2D2091</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1570</real>
 		</dict>
 		<key>C81078D3-A364-49AA-9A49-EBC11080A333</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1950</real>
 		</dict>
 		<key>CD5152BC-4937-4F3A-A120-A2583C632A27</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>3320</real>
 		</dict>
 		<key>D30C5088-7696-424F-AFDE-A3AED458E80E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>2690</real>
 		</dict>
 		<key>D3BE7DF9-1E77-4BFB-9E6B-9A165A02AFDD</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1570</real>
 		</dict>
 		<key>D42735A6-5AC1-4E2E-8404-4AB4C40E40EB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>2900</real>
 		</dict>
 		<key>D8215940-F1D8-4F42-BB7C-724E7EF7665D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>160</real>
 		</dict>
 		<key>D953316F-EB19-44AE-B327-C8555A878176</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>2000</real>
 		</dict>
 		<key>E1CF7C57-F3AB-444C-A5C3-69ACA161E40A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>1350</real>
 		</dict>
 		<key>E1D79E66-6C58-4D84-BE57-3876BAB19ED7</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>E5F3E5FA-B0ED-4E7D-B122-351A61FBADD3</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>920</real>
 		</dict>
 		<key>E7B4C554-7182-4DE5-8CDE-EE32C6F00CF4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>530</real>
 		</dict>
 		<key>E7FC7949-B6E1-430B-AB3F-636D356BBF0E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>2310</real>
 		</dict>
 		<key>EC484654-9DA3-4CD3-ADE7-F095AA471F10</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>2210</real>
 		</dict>
 		<key>EE894EC7-60E1-4536-8010-352D81907894</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>3220</real>
 		</dict>
 		<key>F0A0B9F7-4AAA-4B49-A088-386953DA010F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>FE3C32EB-D3BD-4773-B396-FB54AEC32BF3</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>2900</real>
 		</dict>

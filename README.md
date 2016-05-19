@@ -28,3 +28,14 @@ ph download
 ```
 
 Since this uses contextual dates it really leverages the power of being able to get refreshed data instantly.
+
+## Requirements
+
++ Performance Horizon AUTH
++ Alfred 3
+  + Will work with Alfred 2, but will require changes to scripting
++ Powerpack
+
+### Nice to Have
+
++ Growl
